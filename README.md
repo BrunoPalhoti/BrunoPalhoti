@@ -31,11 +31,7 @@ Experiência com desenvolvimento de APIs REST, microsserviços, aplicações web
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrunoPalhoti&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoPalhoti&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=BrunoPalhoti&theme=tokyonight)
+![NodeJS](https://skillicons.dev/icons?i=nodejs,nestjs,react,angular,typescript,java,spring,postgres,docker,aws,git)
 
 ---
 
